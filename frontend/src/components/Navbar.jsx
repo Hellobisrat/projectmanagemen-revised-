@@ -19,7 +19,7 @@ const Navbar = ({user,onLogout}) => {
   },[])
 
   const handleMenuToggle =()=>setMenuOpen((prev)=>!prev)
-  const handleLogout=()=>{setMenuOpen(false)}
+  const handleLogout=()=>{setMenuOpen(false),onLogout()}
   return (
     <header className='sticky top-0 z-50 bg-white/90 backdrop-blur-md shadow-sm
     border-b border-gray-200 font-sans '>
