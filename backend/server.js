@@ -1,7 +1,7 @@
 import express from 'express';
 import dotenv from 'dotenv';
 import cors from 'cors';
-import userRouter from './route/useRoute.js';
+import userRouter from './route/userRoute.js';
 import dbConnect from './config/db.js';
 import taskRouter from './route/taskRoute.js';
 
