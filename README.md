@@ -1,12 +1,12 @@
-# Project Management App (In Progress)
+# Project Management App 
 
 A full-stack project management tool built with React, Node.js, and MongoDB.  
 This project is currently under active development — new features are added weekly.
 
 ## 🚧 Status
-Last updated: April 2026  
-Commits: 11+  
-Backend + frontend setup in progress.
+Last updated: April 2026 
+Commits: 31+  
+Backend + frontend 
 
 ## 🛠️ Tech Stack
 - React
